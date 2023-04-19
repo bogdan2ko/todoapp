@@ -1,4 +1,4 @@
-# ToDoApp]
+# ToDoApp
 
 ToDoApp is a simple web application that allows users to create and manage a list of tasks. It is designed to be easy to use, with a clean and intuitive interface.
 
