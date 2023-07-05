@@ -27,6 +27,7 @@ Create new tasks with a title and description
 ## Getting Started
 
 1. Open the command prompt.
-2. Run `docker-compose up -d`
-3. You are great, and can start working.
+2. Run `docker-compose exec web python manage.py migrate`
+3. Run `docker-compose up -d`
+4. You are great, and can start working.
 
